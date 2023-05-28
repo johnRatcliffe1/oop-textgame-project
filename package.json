@@ -1,0 +1,14 @@
+{
+  "name": "oop-textgame-project",
+  "version": "1.0.0",
+  "description": "This is an assignment to showcase my understanding of OOP(Object Oriented Programming) in JavaScript.",
+  "main": "game.js",
+  "scripts": {
+    "start": "nodemon game.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
